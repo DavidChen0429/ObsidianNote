@@ -1,0 +1,51 @@
+# To Do & Tasks
+MECH 556 Academic Writing Weekly Task:
+* Attend lectures
+* Tutorial tasks
+* Perusall reading
+
+Main assignments:
+* Final paper
+* Final oral presentation --- 3MT
+* Scaffolding improvement
+* Peer review
+
+===Important Due Date===
+- [ ] (Jan, 19) Reading $\times$ 2
+- [ ] (Jan, 26) Reading
+- [ ] (Jan, 28) Research Statement
+- [ ] (Jan, 30) Peer Review of RS
+- [ ] (Feb, 02) Reading $\times$ 3
+- [ ] (Feb, 06) Genre Analysis: Introduction
+- [ ] (Feb, 09) Reading $\times$ 3
+- [ ] (Feb, 13) Genre Analysis: Literature Reviews
+- [ ] (Feb, 23) Reading
+- [ ] (Feb, 25) Intro + Literature Review
+- [ ] (Fed, 27) Peer Review of I+LR
+- [ ] (Mar, 02) Reading 
+- [ ] (Mar, 02) Genre Analysis: MRD sections
+- [ ] (Mar, 09) Genre Analysis: 3MT
+- [ ] (Mar, 16) Reading
+- [ ] (Mar, 18) Full draft paper
+- [ ] (Mar, 20) Peer Review of FP
+- [ ] (Mar, 23) Reading
+- [ ] (Mar, 25) Draft of 3MT Slide
+- [ ] (Mar, 27) Peer Review
+- [ ] (Mar, 30) Reading
+- [ ] (Apr, 06) Final 3MT script and slide
+- [ ] (Apr, 13) Final paper with abstract
+
+# I Want to Learn
+* Different focus and writing styles of different genre
+* How to form the logic in academic writing 
+
+## Problem-Solving Text
+Situation --> Problem (Practical or Conceptual) --> Partial Solution --> Evaluation of Partial Solution --> New Solution --> Evaluation
+
+* Problem: 
+	* Make sure to answer the implicit question --- so what? 
+	* Frame your reader's point of view
+	* For grant application, focus on the practical application side
+	* Not too vague???
+
+
