@@ -16,9 +16,9 @@ Main assignments:
 - [x] (Jan, 28) Research Statement
 - [x] (Jan, 30) Peer Review of RS
 - [x] (Feb, 02) Reading $\times$ 3
-- [ ] (Feb, 06) Genre Analysis: Introduction
-- [ ] (Feb, 09) Reading $\times$ 3
-- [ ] (Feb, 13) Genre Analysis: Literature Reviews
+- [x] (Feb, 06) Genre Analysis: Introduction
+- [x] (Feb, 09) Reading $\times$ 3
+- [x] (Feb, 13) Genre Analysis: Literature Reviews
 - [ ] (Feb, 23) Reading
 - [ ] (Feb, 25) Intro + Literature Review
 - [ ] (Fed, 27) Peer Review of I+LR

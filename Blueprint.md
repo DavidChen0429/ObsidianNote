@@ -25,6 +25,19 @@ Thus, to become a successful PhD student, and have a great subsequent career, he
 
 ## Some Useful Resource
 These online articles and resources have been recommended to me by friends. Reading these materials broadened my horizon.
+### UBC
+* UBC G+PS: general resource
+* Center of writing and scholarly communication 
+	* Writing facing general audience
+	* Writing for grand proposal
+	* Writing for scholarships
+* Library Woodward
+	* Point you at the right direction for resources
+	* Some general things
+* Center of teaching and instruction
+	* TAing
+* GSS
+	* Social things
 ### How to be a Star Student
 The article of [How to be a Star Student](https://thesiswhisperer.com/2017/04/05/why-you-are-not-the-star-student-and-how-to-become-one/amp/) offers insight in how to succeed. Important lesson to summarize:
 - Only hard work is not going to breed success.
@@ -65,6 +78,7 @@ This long presentation of Richard Hamming offers a glimpse into what a great min
 - Manage Your Ego
 - Self-Awareness and Honesty
 
+===============================================
 ## Advices from Others
 2025.12.22 Dawei Shi
 - 纯控制在相对传统的国家还有（Systems&Control），但是在北美已经不行了，连奖学金都申不到；整个控制在IEEE里面也都是比较小的一个分支；要结合一个应用背景来做控制（套个背景来解决问题）；

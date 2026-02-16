@@ -57,3 +57,6 @@ Scholarships:
 7. Timing and internal review are important
 8. Become a grant reviewer early in your career: Understand the process
 9. Accept rejection and deal with it appropriately
+
+## Random Points to Make Research Better:
+* Show huge potential of FOWF production in Canada
