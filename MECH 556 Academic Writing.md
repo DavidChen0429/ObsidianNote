@@ -19,19 +19,20 @@ Main assignments:
 - [x] (Feb, 06) Genre Analysis: Introduction
 - [x] (Feb, 09) Reading $\times$ 3
 - [x] (Feb, 13) Genre Analysis: Literature Reviews
-- [ ] (Feb, 23) Reading
-- [ ] (Feb, 25) Intro + Literature Review
-- [ ] (Fed, 27) Peer Review of I+LR
-- [ ] (Mar, 02) Reading 
-- [ ] (Mar, 02) Genre Analysis: MRD sections
-- [ ] (Mar, 09) Genre Analysis: 3MT
+- [x] (Feb, 23) Reading
+- [x] (Feb, 25) Intro + Literature Review
+- [x] (Fed, 27) Peer Review of I+LR
+- [x] (Mar, 02) Reading 
+- [ ] (Mar, 06) Genre Analysis: MRD sections
+- [ ] (Mar, 13) Genre Analysis: 3MT
 - [ ] (Mar, 16) Reading
 - [ ] (Mar, 18) Full draft paper
 - [ ] (Mar, 20) Peer Review of FP
 - [ ] (Mar, 23) Reading
 - [ ] (Mar, 25) Draft of 3MT Slide
-- [ ] (Mar, 27) Peer Review
+- [ ] (Mar, 27) Peer Review 3MT
 - [ ] (Mar, 30) Reading
+- [ ] (Apr, 03) Genre Analysis: Abstract
 - [ ] (Apr, 06) Final 3MT script and slide
 - [ ] (Apr, 13) Final paper with abstract
 
