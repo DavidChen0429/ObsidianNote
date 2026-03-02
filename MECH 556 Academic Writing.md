@@ -26,8 +26,8 @@ Main assignments:
 - [ ] (Mar, 06) Genre Analysis: MRD sections
 - [ ] (Mar, 13) Genre Analysis: 3MT
 - [ ] (Mar, 16) Reading
-- [ ] (Mar, 18) Full draft paper
-- [ ] (Mar, 20) Peer Review of FP
+- [ ] (Mar, 18) Full draft paper excluding abstract
+- [ ] (Mar, 20) Peer Review of draft paper
 - [ ] (Mar, 23) Reading
 - [ ] (Mar, 25) Draft of 3MT Slide
 - [ ] (Mar, 27) Peer Review 3MT
