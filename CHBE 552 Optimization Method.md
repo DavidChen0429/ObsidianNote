@@ -8,5 +8,6 @@ CHBE Optimization Method Duties:
 - [x] (Jan, 23) Homework 1
 - [x] (Feb, 09) Homework 2
 - [x] (Feb, 27) Homework 3
-- [ ] (Mar, 11) Midterm exam
+- [x] (Mar, 11) Midterm exam
+- [ ] (Mar, 30) Homework 4
 - [ ] (Mar, 30) Final Project

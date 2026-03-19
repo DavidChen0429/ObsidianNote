@@ -1,12 +1,18 @@
 Journals:
-* IEEE TAC
-* Automatica
-* Wind Energy Science 
-* Renewable Energy 
-* [Energy](https://www.sciencedirect.com/journal/energy) 
-* Energies
-* Applied Energy
-* Journal of Renewable and Sustainable Energy
-* Applied Ocean Research
-* Ocean Energy
-* IEEE Trans on Sustainable Energy
+* Control Relevant
+	* Annual Review of Control, Robotics, and Autonomous Systems
+	* Annual Reviews in Control
+	* IEEE Transaction on Automatic Control
+	* Automatica
+	* IEEE Transaction on Control Systems Technology
+* Renewable Energy Relevant: 
+	* Renewable Energy 
+	* Applied Energy
+	* Energy
+	* Energies
+	* Journal of Renewable and Sustainable Energy
+	* IEEE Transaction on Sustainable Energy
+	* Wind Energy Science
+* Other Relevant:
+	* Applied Ocean Research
+	* Ocean Energy

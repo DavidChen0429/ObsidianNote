@@ -23,11 +23,11 @@ Main assignments:
 - [x] (Feb, 25) Intro + Literature Review
 - [x] (Fed, 27) Peer Review of I+LR
 - [x] (Mar, 02) Reading 
-- [ ] (Mar, 06) Genre Analysis: MRD sections
-- [ ] (Mar, 13) Genre Analysis: 3MT
-- [ ] (Mar, 16) Reading
-- [ ] (Mar, 18) Full draft paper excluding abstract
-- [ ] (Mar, 20) Peer Review of draft paper
+- [x] (Mar, 06) Genre Analysis: MRD sections
+- [x] (Mar, 13) Genre Analysis: 3MT
+- [x] (Mar, 16) Reading
+- [x] (Mar, 18) Full draft paper excluding abstract
+- [x] (Mar, 20) Peer Review of draft paper
 - [ ] (Mar, 23) Reading
 - [ ] (Mar, 25) Draft of 3MT Slide
 - [ ] (Mar, 27) Peer Review 3MT

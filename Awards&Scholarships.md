@@ -4,6 +4,7 @@ Awards:
 * Killam Graduate TA Awards  March
 * [UBC Dissertation Prize](https://www.grad.ubc.ca/awards/ubc-dissertation-prize)
 * [Governor Gold Medal](https://www.grad.ubc.ca/awards/governor-generals-gold-medal)
+* [UBC Public Scholar Award](https://www.grad.ubc.ca/awards/ubc-public-scholars-award?utm_source=Cyberimpact&utm_medium=email&utm_campaign=GradUpdate--09-Mar-2026) May 
 Scholarships:
 * [NSERC CGSD](https://www.grad.ubc.ca/awards/canada-graduate-research-scholarships-doctoral-cgrs-d-program)    September                                  
 * [CSC UBC Scholarships](https://www.grad.ubc.ca/awards/china-scholarship-council-doctoral-scholarships)  March
