@@ -28,7 +28,7 @@ Main assignments:
 - [x] (Mar, 16) Reading
 - [x] (Mar, 18) Full draft paper excluding abstract
 - [x] (Mar, 20) Peer Review of draft paper
-- [ ] (Mar, 23) Reading
+- [x] (Mar, 23) Reading
 - [ ] (Mar, 25) Draft of 3MT Slide
 - [ ] (Mar, 27) Peer Review 3MT
 - [ ] (Mar, 30) Reading
