@@ -6,5 +6,7 @@ Courses that I am taking:
 
 Courses that I want to take:
 * Computational control
-* Reinforcement learning
+* Reinforcement learning (Cyrus, CS)
 * Hardware: FPGA and so on
+* ([Physical-informed AI](https://sites.google.com/view/cpsc532z?usp=sharing))[https://sites.google.com/view/cpsc532z?usp=sharing]
+* 
