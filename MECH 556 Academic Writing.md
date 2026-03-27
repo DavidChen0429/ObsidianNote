@@ -30,7 +30,7 @@ Main assignments:
 - [x] (Mar, 20) Peer Review of draft paper
 - [x] (Mar, 23) Reading
 - [x] (Mar, 25) Draft of 3MT Slide
-- [ ] (Mar, 27) Peer Review 3MT
+- [x] (Mar, 27) Peer Review 3MT
 - [ ] (Mar, 30) Reading
 - [ ] (Apr, 03) Genre Analysis: Abstract
 - [ ] (Apr, 06) Final 3MT script and slide
