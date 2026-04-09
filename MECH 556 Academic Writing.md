@@ -31,10 +31,10 @@ Main assignments:
 - [x] (Mar, 23) Reading
 - [x] (Mar, 25) Draft of 3MT Slide
 - [x] (Mar, 27) Peer Review 3MT
-- [ ] (Mar, 30) Reading
-- [ ] (Apr, 03) Genre Analysis: Abstract
-- [ ] (Apr, 06) Final 3MT script and slide
-- [ ] (Apr, 13) Final paper with abstract
+- [x] (Mar, 30) Reading
+- [x] (Apr, 03) Genre Analysis: Abstract
+- [x] (Apr, 06) Final 3MT script and slide
+- [x] (Apr, 13) Final paper with abstract
 
 # I Want to Learn
 * Different focus and writing styles of different genre

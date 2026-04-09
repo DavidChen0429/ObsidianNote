@@ -6,6 +6,7 @@ Journals:
 	* Automatica
 	* IEEE Transaction on Control Systems Technology
 * Renewable Energy Relevant: 
+	* Renewable and sustainable energy reviews
 	* Renewable Energy 
 	* Applied Energy
 	* Energy
