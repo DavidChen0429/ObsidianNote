@@ -17,3 +17,8 @@ Journals:
 * Other Relevant:
 	* Applied Ocean Research
 	* Ocean Energy
+
+
+## Specific Works
+(2026 1) [Review paper](Systematic_Review%20(J).md)                
+(2026 5) [FAST.Farm Toolbox](FFConnect%20Toolbox%20(J).md)
