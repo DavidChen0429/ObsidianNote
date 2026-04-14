@@ -4,11 +4,14 @@ Goal:
 
 To do:
 * [x] Expand Super Controller to include IPC 
-* [ ] Test IO passage correct
+* [x] Test IO passage correct
 	* [x] yaw
 	* [x] pitch
 	* [x] torque
 	* [x] output
-* [ ] from global flag to individual flag
+* [x] from global flag to per-turbine flag
+* [ ] expand fixed-bottom controller to include IPC
+	* [ ] DISCON
+	* [ ] SC_DLL 
 * [ ] Expand super controllers to include sufficient variables (QBlade as reference)
-* [ ] User-friendly
+* [ ] Make it user-friendly
