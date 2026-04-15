@@ -9,9 +9,20 @@ To do:
 	* [x] pitch
 	* [x] torque
 	* [x] output
+	* [x] collective pitch
 * [x] from global flag to per-turbine flag
-* [ ] expand fixed-bottom controller to include IPC
-	* [ ] DISCON
-	* [ ] SC_DLL 
+* [x] expand fixed-bottom controller to include IPC
+	* [x] DISCON
+	* [x] SC_DLL 
 * [ ] Expand super controllers to include sufficient variables (QBlade as reference)
+	* [x] DISCON 
+	* [x] DISCON OC3
+	* [x] SC DLL
+	* [x] ffconnect interface
+	* [ ] test
+		* [x] fixed-bottom (IPC does not work)
+		* [x] floating
+		* [ ] Azimuth (reduce DT = 1)
+* [ ] Read through the readme & claude
+* [ ] Expand to entire averMatrix
 * [ ] Make it user-friendly

@@ -110,3 +110,16 @@ This long presentation of Richard Hamming offers a glimpse into what a great min
 
 ## To Dos
 ===Key Words===: Sustainability, Renewable Energy, Ocean Resource, ECE, MECH
+* [ ] [[Systematic_Review (J)]]:
+	* [ ] Add new paper
+		* [x] Change detail about "towards collective control"
+		* [x] From cut-in to rated
+		* [ ] Casey IFAC
+		* [ ] Yue WES
+	* [ ] Polish paper in general
+* [ ] Finish [[FFConnect Toolbox (J)]] functionality
+* [ ] Finish slide for WERCan meetup
+* [ ] Blade bending moment + repositioning
+* [ ] Physical informed modeling
+	* [ ] Graph neural network 
+	* [ ] Multi-fidelity modeling
