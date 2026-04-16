@@ -19,10 +19,10 @@ To do:
 	* [x] DISCON OC3
 	* [x] SC DLL
 	* [x] ffconnect interface
-	* [ ] test
+	* [x] test
 		* [x] fixed-bottom (IPC does not work)
 		* [x] floating
-		* [ ] Azimuth (reduce DT = 1)
+		* [x] Azimuth (reduce DT = 1)
 * [ ] Read through the readme & claude
 * [ ] Expand to entire averMatrix
 * [ ] Make it user-friendly
