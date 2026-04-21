@@ -14,7 +14,7 @@ To do:
 * [x] expand fixed-bottom controller to include IPC
 	* [x] DISCON
 	* [x] SC_DLL 
-* [ ] Expand super controllers to include sufficient variables (QBlade as reference)
+* [x] Expand super controllers to include sufficient variables (QBlade as reference)
 	* [x] DISCON 
 	* [x] DISCON OC3
 	* [x] SC DLL
@@ -24,9 +24,9 @@ To do:
 		* [x] floating
 		* [x] Azimuth (reduce DT = 1)
 * [x] Ensure higher resolution simulation
-* [ ] Expand to entire averMatrix
-	* [ ] Supercontroller (DISCON, DISCON_OC3, SC_DLL)
-	* [ ] Interface
-	* [ ] Test
+* [x] Expand to entire averMatrix
+	* [x] Supercontroller (DISCON, DISCON_OC3, SC_DLL)
+	* [x] Interface
+	* [x] Test
 * [ ] Read through the readme & claude
 * [ ] Make it user-friendly

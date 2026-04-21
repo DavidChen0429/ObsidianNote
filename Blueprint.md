@@ -125,6 +125,7 @@ This long presentation of Richard Hamming offers a glimpse into what a great min
 	* [x] Readthrough --- abbreviation, italics, citation
 * [ ] Finish [[FFConnect Toolbox (J)]] functionality
 * [ ] Finish slide for WERCan meetup
+* [ ] Upgrade to Julia!!!
 * [ ] Blade bending moment + repositioning
 * [ ] Physical informed modeling
 	* [ ] Graph neural network 
