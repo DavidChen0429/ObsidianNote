@@ -116,7 +116,13 @@ This long presentation of Richard Hamming offers a glimpse into what a great min
 		* [x] From cut-in to rated
 		* [ ] Casey IFAC
 		* [ ] Yue WES
-	* [ ] Polish paper in general
+		* [x] Add new paper: active yaw
+	* [x] Polish paper in general
+		* [x] Wake steering 
+		* [x] Add citation --- mooring line monitoring
+		* [x] Analysis --- atmospheric conditions 
+		* [x] Abstract --- summarize findings
+	* [x] Readthrough --- abbreviation, italics, citation
 * [ ] Finish [[FFConnect Toolbox (J)]] functionality
 * [ ] Finish slide for WERCan meetup
 * [ ] Blade bending moment + repositioning

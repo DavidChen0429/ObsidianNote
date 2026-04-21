@@ -23,6 +23,10 @@ To do:
 		* [x] fixed-bottom (IPC does not work)
 		* [x] floating
 		* [x] Azimuth (reduce DT = 1)
-* [ ] Read through the readme & claude
+* [x] Ensure higher resolution simulation
 * [ ] Expand to entire averMatrix
+	* [ ] Supercontroller (DISCON, DISCON_OC3, SC_DLL)
+	* [ ] Interface
+	* [ ] Test
+* [ ] Read through the readme & claude
 * [ ] Make it user-friendly

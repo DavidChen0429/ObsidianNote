@@ -13,6 +13,7 @@ Scholarships:
 * [Affiliated Fellowship Doctoral Program](https://www.grad.ubc.ca/awards/affiliated-fellowships-doctoral-program)  September
 * [John Davies Memorial Award](https://communities.sname.org/arcticsection/scholarshipinfo/new-item) November
 * [4 Year Fellowship](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf) December
+* Dean's Graduate Award May
 ## How to Apply for Grant
 #### Guide to Funding Research (by ASME)
 1. Determine research objectives and project scope
