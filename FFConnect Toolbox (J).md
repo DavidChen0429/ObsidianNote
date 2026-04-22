@@ -28,5 +28,6 @@ To do:
 	* [x] Supercontroller (DISCON, DISCON_OC3, SC_DLL)
 	* [x] Interface
 	* [x] Test
-* [ ] Read through the readme & claude
+* [ ] Read through the readme & Claude
+* [ ] Separate ffconnect to CEL
 * [ ] Make it user-friendly
