@@ -124,6 +124,7 @@ This long presentation of Richard Hamming offers a glimpse into what a great min
 		* [x] Abstract --- summarize findings
 	* [x] Readthrough --- abbreviation, italics, citation
 * [ ] Finish [[FFConnect Toolbox (J)]] functionality
+* [ ] FFConnect_Toolbox publish?
 * [ ] Finish slide for WERCan meetup
 	* [ ] Figures and animations
 * [ ] Upgrade to Julia!!!

@@ -1,4 +1,4 @@
-Label: Journal
+CLabel: Journal
 Goal:
 * Enable implementation of farm-level control strategy in FAST.Farm in an iterative way
 
@@ -28,6 +28,7 @@ To do:
 	* [x] Supercontroller (DISCON, DISCON_OC3, SC_DLL)
 	* [x] Interface
 	* [x] Test
-* [ ] Read through the readme & Claude
-* [ ] Separate ffconnect to CEL
+* [x] Read through the readme & Claude
+* [x] Debug why the wake effect is not simulated
+* [x] Separate ffconnect to CEL
 * [ ] Make it user-friendly
