@@ -22,3 +22,9 @@ Journals:
 ## Specific Works
 (2026 1) [Review paper](Systematic_Review%20(J).md)                
 (2026 5) [FAST.Farm Toolbox](FFConnect%20Toolbox%20(J).md)
+(2026 6) [Distributed_Mtilt_Myaw](Distributed%20FOWF%20based%20on%20Blade%20Blending%20Moments.md)
+
+
+
+
+

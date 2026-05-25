@@ -32,3 +32,8 @@ To do:
 * [x] Debug why the wake effect is not simulated
 * [x] Separate ffconnect to CEL
 * [ ] Make it user-friendly
+
+
+Arvix paper:
+- [ ] Design storyline
+- [ ] Start writing introduction

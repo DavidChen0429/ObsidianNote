@@ -19,3 +19,8 @@ To do:
 - [x] Rewrite conclusion
 - [x] Rewrite abstract
 - [x] Rewrite highlights
+
+Leftover checklist:
+- [ ] Figure 4 (model-based WFC system) discussion
+- [ ] Remake figures that adapt directly from other papers
+- [ ] Make statement less general but more to FOWF
