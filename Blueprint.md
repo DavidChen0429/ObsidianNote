@@ -108,6 +108,12 @@ This long presentation of Richard Hamming offers a glimpse into what a great min
 
 ## If I Am Being Brutally Honest about Myself
 
+## Important Deadlines
+- [ ] Literature review - Aug 30th
+- [ ] NSERC CGSD application - Sep 7th
+- [ ] ACC 2027 - Sep 25th 
+- [ ] Literature review defense - Sep 30th
+- [ ] Deepwind 2027 - Oct 14th
 ## To Dos
 ===Key Words===: Sustainability, Renewable Energy, Ocean Resource, ECE, MECH
 * [ ] [[Systematic_Review (J)]]:
@@ -123,12 +129,12 @@ This long presentation of Richard Hamming offers a glimpse into what a great min
 		* [x] Analysis --- atmospheric conditions 
 		* [x] Abstract --- summarize findings
 	* [x] Readthrough --- abbreviation, italics, citation
-* [ ] Finish [[FFConnect Toolbox (J)]] functionality
+* [x] Finish [[FFConnect Toolbox (J)]] functionality
 * [ ] FFConnect_Toolbox publish?
-* [ ] Finish slide for WERCan meetup
-	* [ ] Figures and animations
+* [x] Finish slide for WERCan meetup
+	* [x] Figures and animations
 * [ ] Upgrade to Julia!!!
 * [ ] Blade bending moment + repositioning
 * [ ] Physical informed modeling
 	* [ ] Graph neural network 
-	* [ ] Multi-fidelity modeling
+	* [ ] Multi-fidelity modeling and control
