@@ -1,0 +1,14 @@
+- [x] Whether Mtilt and Myaw reflect the asymmetrical force?
+	- [x] Place turbines misalign to see the change
+	- [x] See extra long shift change
+- [ ] How to use Mtilt and Myaw to plan the repositioning?
+	- [x] Free release to ensure the threshold
+	- [ ] Simple local logic
+	- [ ] How to scale up 
+		- [ ] try 3WT cases
+	- [ ] How to determine the magnitude of yaw
+	- [ ] How to ensure sequential decision making
+	- [ ] How to handle the changing wind direction
+	- [ ] Combine with ESC?
+- [ ] Large-scale distributed control?
+- [ ] Combine with data-driven control?

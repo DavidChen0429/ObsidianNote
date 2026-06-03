@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers.md",
+                "file": "Distributed FOWF based on Blade Blending Moments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Papers"
+              "title": "Distributed FOWF based on Blade Blending Moments"
             }
           }
         ]
@@ -206,9 +206,9 @@
   },
   "active": "06913c2812d14c8a",
   "lastOpenFiles": [
+    "Distributed FOWF based on Blade Blending Moments.md",
     "Papers.md",
     "Research.md",
-    "Distributed FOWF based on Blade Blending Moments.md",
     "Distributed_Mtilt_Myaw.md",
     "Systematic_Review (J).md",
     "FFConnect Toolbox (J).md",
